@@ -31,7 +31,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e72fcb02dc9544d6ad7d3d5de1ca3490">
+      id="id-e72fcb02dc9544d6ad7d3d5de1ca3490"
+      fillColor="#ff8040">
     <bounds
         x="84"
         y="504"
